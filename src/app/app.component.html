@@ -17,10 +17,16 @@
       <!-- Location -->
       <h2 class="location">{{currentStop.location}}</h2>
 
-      <!-- Clue Section -->
+      <!-- Answer Section -->
+      <!--<div *ngIf="!showClue" class="clue-hidden">
+        <button class="btn-reveal" (click)="revealClue()">
+          🔓 Reveal Answer
+        </button>
+      </div>-->
+
       <div *ngIf="!showClue" class="clue-hidden">
         <button class="btn-reveal" (click)="revealClue()">
-          🔓 Reveal Clue
+          🔓 Reveal Answer
         </button>
       </div>
 

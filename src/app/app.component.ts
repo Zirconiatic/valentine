@@ -35,7 +35,7 @@ export class AppComponent {
     {
       id: 1,
       location: "I'm closest to your dreams when the lights go low—look where your head rests before you let go.",
-      clue: "Under her pillow",
+      clue: "Under your pillow",
       question: "Do you still get butterflies when you're around me?",
       type: "yesno",
       emoji: "🛏️"
