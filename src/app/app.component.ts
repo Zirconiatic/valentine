@@ -43,7 +43,7 @@ export class AppComponent {
     {
       id: 2,
       location: "You'll find me where you meet your own eyes, where mornings begin and sleepy smiles rise.",
-      clue: "Bathroom mirror",
+      clue: "Dressing table mirror",
       question: "Do I make you laugh more than anyone else?",
       type: "yesno",
       emoji: "🪞"
