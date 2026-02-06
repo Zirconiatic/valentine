@@ -34,40 +34,40 @@ export class AppComponent {
   stops: Stop[] = [
     {
       id: 1,
-      location: "Under her pillow",
-      clue: "I'm closest to your dreams when the lights go low—look where your head rests before you let go.",
+      location: "I'm closest to your dreams when the lights go low—look where your head rests before you let go.",
+      clue: "Under her pillow",
       question: "Do you still get butterflies when you're around me?",
       type: "yesno",
       emoji: "🛏️"
     },
     {
       id: 2,
-      location: "Bathroom mirror",
-      clue: "You'll find me where you meet your own eyes, where mornings begin and sleepy smiles rise.",
+      location: "You'll find me where you meet your own eyes, where mornings begin and sleepy smiles rise.",
+      clue: "Bathroom mirror",
       question: "Do I make you laugh more than anyone else?",
       type: "yesno",
       emoji: "🪞"
     },
     {
       id: 3,
-      location: "Spice rack / kitchen shelf",
-      clue: "Go here if you want to spice things up outside the bedroom.",
+      location: "Go here if you want to spice things up outside the bedroom.",
+      clue: "Spice rack / kitchen shelf",
       question: "Should we dance in the kitchen more often?",
       type: "yesno",
       emoji: "🌶️"
     },
     {
       id: 4,
-      location: "Photo frame / favorite art",
-      clue: "There's no denying you've captured my heart—look for the next clue behind our favorite art.",
+      location: "There's no denying you've captured my heart—look for the next clue behind our favorite art.",
+      clue: "Photo frame / favorite art",
       question: "Do you think we make a cute couple?",
       type: "yesno",
       emoji: "🖼️"
     },
     {
       id: 5,
-      location: "Final Surprise",
-      clue: "You've followed every clue with love and grace—now the final moment awaits at our special place.",
+      location: "You've followed every clue with love and grace—now the final moment awaits at our special place.",
+      clue: "Final Surprise",
       question: "Will you be my Valentine?",
       type: "valentine",
       emoji: "💝"
